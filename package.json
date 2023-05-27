@@ -1,7 +1,7 @@
 {
   "name": "lesliesDineIn",
   "version": "0.1.0",
-  "proxy":"http://localhost:5000",
+  "proxy":"http://leslies-server-m6k7.onrender.com",
   "type": "module",
   "private": true,
   "dependencies": {
